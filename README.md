@@ -1,4 +1,11 @@
 # BootstrapBio
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Using HTML, CSS and Bootstrap to make a Bio Portfolio Webpage
+index page with bio and image
+
+contact page with form
+
+portfolio with images of past projects
+
+style sheet for page repsonsivness. change page for screen size of 600 px for better viewing on small screens
+
