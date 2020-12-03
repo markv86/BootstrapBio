@@ -7,5 +7,7 @@ contact page with form
 
 portfolio with images of past projects
 
-style sheet for page repsonsivness. change page for screen size of 600 px for better viewing on small screens
+style sheet for page responsiveness. change page for screen size of 600 px for better viewing on small screens
+
+
 
